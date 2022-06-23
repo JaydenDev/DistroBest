@@ -1,11 +1,11 @@
-# DistroBoard
-A modern and opensource alternative to distrowatch
+# DistroBest
+Find what distro is best for you!
 
 
 ![OpenIssues](https://img.shields.io/github/issues-raw/JaydenDev/DistroBest?style=for-the-badge&color=blue&logo=codacy)
 ![ClosedIssues](https://img.shields.io/github/issues-closed-raw/JaydenDev/DistroBest?style=for-the-badge&color=9cf&logo=fing)
 ![LastCommit](https://img.shields.io/github/last-commit/JaydenDev/DistroBeststyle=for-the-badge&color=informational&logo=fastly )
-![Contributors](https://img.shields.io/github/contributors-anon/JaydenDev/DistroBestd?style=for-the-badge&color=9cf&logo=appveyor)
+![Contributors](https://img.shields.io/github/contributors-anon/JaydenDev/DistroBest?style=for-the-badge&color=9cf&logo=appveyor)
 # Notes for developers (From original README)
 
 ## Instructions to run application in develpment
