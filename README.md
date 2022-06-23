@@ -2,17 +2,11 @@
 A modern and opensource alternative to distrowatch
 
 
-![OpenIssues](https://img.shields.io/github/issues-raw/Distroboard/Distroboard?style=for-the-badge&color=blue&logo=codacy)
-![ClosedIssues](https://img.shields.io/github/issues-closed-raw/Distroboard/Distroboard?style=for-the-badge&color=9cf&logo=fing)
-![LastCommit](https://img.shields.io/github/last-commit/Distroboard/Distroboard?style=for-the-badge&color=informational&logo=fastly )
-![Contributors](https://img.shields.io/github/contributors-anon/Distroboard/Distroboard?style=for-the-badge&color=9cf&logo=appveyor)
-
-
-
-![Project Banner](./repo/screenshot1.png)
-
-
-# Notes for developers
+![OpenIssues](https://img.shields.io/github/issues-raw/JaydenDev/DistroBest?style=for-the-badge&color=blue&logo=codacy)
+![ClosedIssues](https://img.shields.io/github/issues-closed-raw/JaydenDev/DistroBest?style=for-the-badge&color=9cf&logo=fing)
+![LastCommit](https://img.shields.io/github/last-commit/JaydenDev/DistroBeststyle=for-the-badge&color=informational&logo=fastly )
+![Contributors](https://img.shields.io/github/contributors-anon/JaydenDev/DistroBestd?style=for-the-badge&color=9cf&logo=appveyor)
+# Notes for developers (From original README)
 
 ## Instructions to run application in develpment
 
