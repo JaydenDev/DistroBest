@@ -33,7 +33,6 @@ const Header = () => {
             <Tooltip title="Add Distro" aria-label="add distro"><IconButton color="inherit" onClick={() => setOpenPopup(true)}><AddCircleIcon /></IconButton></Tooltip>
             <Tooltip title="About Us" aria-label="about"><IconButton color="inherit" component={Link} to="/about"><InfoIcon /></IconButton></Tooltip>
             <Tooltip title="View Source" aria-label="source"><IconButton color="inherit" href="https://github.com/DistroBoard/DistroBoard" target="_blank"><GitHubIcon /></IconButton></Tooltip>
-            <Tooltip title="Login/Signup" aria-label="login/signup"><Button component={Link} to="/auth" color="primary" variant="outlined" style={{margin: '5px', borderRadius: '3px'}} > Login</Button></Tooltip>
           </div>
 
           <PopupState variant="popover" popupId="responsive-menu" >
@@ -44,7 +43,6 @@ const Header = () => {
                 </IconButton>
                 <Menu {...bindMenu(popupState)}>
 
-                  <MenuItem component={Link} to="/auth" onClick={() => popupState.close()}><AccountCircleIcon className={classes.menuIcons} fontSize="small" />Login/Signup</MenuItem>
                   <MenuItem onClick={() => {popupState.close(); setOpenPopup(true);}}><AddCircleIcon className={classes.menuIcons} fontSize="small" />Add Distro</MenuItem>
                   <MenuItem component={Link} to="/about" onClick={() => popupState.close()}><InfoIcon className={classes.menuIcons} fontSize="small" />About Us</MenuItem>
                   <MenuItem onClick={() => {popupState.close(); window.open("https://github.com/DistroBoard/DistroBoard", "_blank");}}><GitHubIcon className={classes.menuIcons} fontSize="small" /> Visit Source</MenuItem>
